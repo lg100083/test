@@ -1,0 +1,7 @@
+spring:
+ appliction:
+   name: item-service
+   
+server:
+      port: 8001
+  
